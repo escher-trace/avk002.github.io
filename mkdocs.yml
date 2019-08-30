@@ -1,0 +1,12 @@
+site_name: Visualization Tool
+nav:
+        - 1. Getting Started: user-guide/GettingStarted.md
+        - 2. Edit the Individual Graphs: user-guide/EditIndivGraphs.md
+        - 3. Changing Graph Type: user-guide/GraphTypes.md
+        - 4. Changing the Graph Attributes: user-guide/GraphAttributes.md
+        - 5. Changing Data Displayed: user-guide/DataDisplayed.md
+        - 6. Analysis: user-guide/Analysis.md
+        - 7. Edit the Data: user-guide/EditData.md
+        - 8. Save Workspace: user-guide/SaveWorkspace.md
+    
+theme: rtd-dropdown
